@@ -14,3 +14,5 @@ This project analyzes procurement datasets to determine the distribution of **Lo
 ### Key Outcomes
 - Visualized **Sourcing Value Distribution**.
 - Identified categories with the highest localization rates.
+  
+![Localization Analysis Dashboard](visuals/image.png)
